@@ -6,6 +6,6 @@ REQUIRED TASKS
 
 ☑️After login,display all the details(e.g Name,Profile photo,email,etc) on the second page.
 
-App Walkthrough
+Video Walkthrough
 
 ![signingif](https://user-images.githubusercontent.com/93065948/166951190-2065309a-b4d8-454c-b876-1bc3dbe38d20.gif)
